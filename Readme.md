@@ -55,7 +55,7 @@ Make sure to replace the placeholders with your actual API credentials.
 ### Usage
 Run the main application:
 ```
-python main.py
+python Erika AI Chatbot.py
 ```
 
 - The GUI will open with a welcome message from Erika AI.
